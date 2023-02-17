@@ -1,6 +1,8 @@
 ChatGPT及相关产品体验与研究
 =============================
 
+我的CSDN文章链接：[ChatGPT及相关产品体验与研究-CSDN](https://blog.csdn.net/qq_33866817/article/details/129091946)
+
 ### 一、ChatGPT介绍
 #### 1. ChatGPT概述
 
@@ -14,8 +16,8 @@ ChatGPT及相关产品体验与研究
 
 > #### ChatGPT使用案例
 >
-> ![使用案例1](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/ChatGPT%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B1.jpg)
-> ![使用案例2](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/ChatGPT%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B2.jpg)
+> ![使用案例1](https://img-blog.csdnimg.cn/cb43f6296d734c18a640e297a60234c8.jpeg)
+> ![使用案例2](https://img-blog.csdnimg.cn/d3c8cfa6478c496986e888fb3d685676.jpeg)
 
 #### 2. ChatGPT的发展历史
 **ChatGPT** 的发展历史可以追溯到 2018年，当时 OpenAI 推出了第一个版本的GPT。该模型使用了一个非常庞大的数据集（WebText）进行训练，这些数据来自互联网上的各种文本源，包括新闻文章、博客、论坛帖子等等。这种预训练方式使得GPT能够自动理解并生成文本，从而为自然语言处理提供了一个更加高效和强大的基础。
@@ -60,7 +62,7 @@ Transformer结构： **ChatGPT** 采用了基于Transformer结构的模型架构
 
 下面是一些OpenAI官网给出的一些实例，它们并不是单一模型能够做到的所有事，不同的模型可以完成不同的任务， **ChatGPT** 通过对话，将自然语言转换成不同的任务，交由不同的模型去完成，一些复杂的任务往往是由 **ChatGPT** 通过多个模型和技术完成的。
 
-![ChatGPT官方应用示例](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/ChatGPT%E5%AE%98%E6%96%B9%E5%BA%94%E7%94%A8%E7%A4%BA%E4%BE%8B.png)
+![ChatGPT官方应用示例](https://img-blog.csdnimg.cn/d35eef7c72c84d589ae0efe83ff7a163.png)
 
 ## 二、业内现有的产品方案调研
 ### 1. 微软 New Bing
@@ -74,11 +76,11 @@ Transformer结构： **ChatGPT** 采用了基于Transformer结构的模型架构
 
 微软称新版必应（Bing）上线不到 48 小时，注册申请用户数量已经突破 100 万 - IT之家​​
 
-![NewBing试用总结1](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/NewBing%E8%AF%95%E7%94%A8%E6%80%BB%E7%BB%931.jpeg)
+![NewBing试用总结1](https://img-blog.csdnimg.cn/1f5c3444b11746239e56e79bd27b821f.jpeg)
 
-![NewBing试用总结2](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/NewBing%E8%AF%95%E7%94%A8%E6%80%BB%E7%BB%932.jpeg)
+![NewBing试用总结2](https://img-blog.csdnimg.cn/80dd9b93b1dc4a8dbd3a83ddb93daaad.jpeg)
 
-![NewBing试用总结3](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/NewBing%E8%AF%95%E7%94%A8%E6%80%BB%E7%BB%933.jpeg)
+![NewBing试用总结3](https://img-blog.csdnimg.cn/e65d51af1f44481595a9aa0aa65b7bb2.jpeg)
 
 ### 2. 百度-文心百中
 文心百中是百度文心大模型旗下的一个大模型驱动的产业级搜索系统产品。文心百中依托行业领先的文心ERNIE大模型，以极简的策略和系统方案，替代传统搜索引擎复杂的特征及系统逻辑，可低成本接入各类企业和开发者应用，并凭借数据驱动的优化模式可实现极致的行业优化效率及应用效果。
@@ -92,7 +94,7 @@ Transformer结构： **ChatGPT** 采用了基于Transformer结构的模型架构
 - 文心百中使用新一代语义向量搜索模式替代传统倒排索引，可以更好地理解用户的搜索意图，提供更准确和相关的结果。Bing也使用了语义向量搜索模式，但可能没有文心百中的优化效果。
 - 文心百中可以低成本接入各类企业和开发者应用，支持端到端集成，提供丰富的工具和平台支撑高效便捷的应用开发。Bing则主要面向普通用户，提供网页、图片、视频、新闻等搜索服务
 
-![文心百中与NewBing区别1](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E6%96%87%E5%BF%83%E7%99%BE%E4%B8%AD%E4%B8%8ENewBing%E5%8C%BA%E5%88%AB1.jpeg)
+![文心百中与NewBing区别1](https://img-blog.csdnimg.cn/81112f901aaa4aedaef6cc22b2aa12bb.jpeg)
 
 文心百中的特点可以总结为三点：“极简的系统”、“强大的语义理解”和“极低的人力成本”。其涵盖的领域非常To B，有非常多的细分领域的搜索场景。
 
@@ -116,11 +118,11 @@ Transformer结构： **ChatGPT** 采用了基于Transformer结构的模型架构
 
 先让框架、大模型在企业，尤其是龙头企业铺展开来；而后通过反馈和优化，逐层向下更深入的应用起来。
 
-![文心百中与NewBing区别2](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E6%96%87%E5%BF%83%E7%99%BE%E4%B8%AD%E4%B8%8ENewBing%E5%8C%BA%E5%88%AB2.jpeg)
+![文心百中与NewBing区别2](https://img-blog.csdnimg.cn/357b628b65274ec3b5a51a977ce1dfa4.jpeg)
 
 **ChatGPT** 爆火和New Bing的强势公布的影响后，文心公布将在3月份推出类 **ChatGPT** 产品“文心一言”，具体就只能等到3月份正式公布之后，再看实际的效果了。
 
-​![文心一言官宣](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E5%AE%98%E5%AE%A3.jpeg)​​
+​![文心一言官宣](https://img-blog.csdnimg.cn/223d7125751445a1b5d74f8abf3d145d.jpeg)​​
 
 ### 3. 京东-ChatJD
 2月10日，京东云宣布，旗下言犀人工智能应用平台将推出产业版 **ChatGPT** ：ChatJD。并公布ChatJD的落地应用路线图“125”计划。
@@ -196,18 +198,18 @@ GPT的研发训练成本异常巨大，这不是普通公司能够负担得起�
 
 > **ChatGPT** 与New Bing的对话截图
 >
-> ![实际对话截图1](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE1.jpg)
-> ![实际对话截图2](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE2.jpg)
-> ![实际对话截图3](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE3.jpg)
-> ![实际对话截图4](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE4.jpg)
-> ![实际对话截图5](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE5.jpg)
-> ![实际对话截图6](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE6.jpg)
-> ![实际对话截图7](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE7.jpg)
-> ![实际对话截图8](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE8.jpg)
-> ![实际对话截图9](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE9.jpg)
-> ![实际对话截图10](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE10.jpg)
-> ![实际对话截图11](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE11.jpg)
-> ![实际对话截图12](http://file.ximu-studio.cn/markdown-blog-repo-img/ChatGPT_survey/%E5%AE%9E%E9%99%85%E5%AF%B9%E8%AF%9D%E6%88%AA%E5%9B%BE12.jpg)
+> ![实际对话截图1](https://img-blog.csdnimg.cn/2dc527d0c4e84331975383dfa3f41de2.jpeg)
+> ![实际对话截图2](https://img-blog.csdnimg.cn/f87831344707429c9ac19a79146412c7.jpeg)
+> ![实际对话截图3](https://img-blog.csdnimg.cn/b1a1d989843546c69dcd83ddfee48727.jpeg)
+> ![实际对话截图4](https://img-blog.csdnimg.cn/53b58c7746b949d19b8309e3aec4ea0e.jpeg)
+> ![实际对话截图5](https://img-blog.csdnimg.cn/bd982dc1d8df496a86ad7ebfdaca8831.jpeg)
+> ![实际对话截图6](https://img-blog.csdnimg.cn/fc4bbc0f62f94c0bb6505e2dc97921b6.jpeg)
+> ![实际对话截图7](https://img-blog.csdnimg.cn/8f8c366c8550481aa0b84a680559dc2b.jpeg)
+> ![实际对话截图8](https://img-blog.csdnimg.cn/e16be43db2214b3cbc850c177969aaa7.jpeg)
+> ![实际对话截图9](https://img-blog.csdnimg.cn/eea140a5093c40c9a261f77c64d2c002.jpeg)
+> ![实际对话截图10](https://img-blog.csdnimg.cn/96a61a6d01ab46c7a4923470711b82a8.jpeg)
+> ![实际对话截图11](https://img-blog.csdnimg.cn/8ad39bd567514ee895fe82b93c805641.jpeg)
+> ![实际对话截图12](https://img-blog.csdnimg.cn/55cc79a4924f45ba8e1786de6c0dc2c1.jpeg)
 
 
 
